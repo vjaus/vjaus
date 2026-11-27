@@ -1,4 +1,3 @@
-
 # Vijay Soundrapandian
 
 ### Enterprise Software Engineer | Cloud | Automation | AI
