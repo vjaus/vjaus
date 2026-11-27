@@ -22,7 +22,7 @@ My core capabilities include:
 - SQL Server, T-SQL and Oracle SQL
 - Production support and incident troubleshooting
 - PowerShell and Python automation
-- AI-assisted engineering using Claude Code
+- AI-assisted engineering using Claude Code, Codex and Gemini
 
 ## Currently Exploring
 
